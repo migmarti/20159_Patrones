@@ -1,0 +1,6 @@
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\bin\Debug\Practica0.exe.config
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\obj\Debug\Practica0.csprojResolveAssemblyReference.cache
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\bin\Debug\Practica0.exe
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\bin\Debug\Practica0.pdb
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\obj\Debug\Practica0.exe
+c:\users\mmart\documents\visual studio 2013\Projects\Practica0\Practica0\obj\Debug\Practica0.pdb
