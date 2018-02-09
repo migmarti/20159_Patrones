@@ -1,6 +1,0 @@
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\bin\Debug\FormField.exe.config
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\bin\Debug\FormField.exe
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\bin\Debug\FormField.pdb
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\obj\Debug\FormField.csprojResolveAssemblyReference.cache
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\obj\Debug\FormField.exe
-c:\users\mmart_000\documents\visual studio 2015\Projects\FormField\FormField\obj\Debug\FormField.pdb
