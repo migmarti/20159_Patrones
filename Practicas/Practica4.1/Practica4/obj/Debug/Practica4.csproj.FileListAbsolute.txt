@@ -1,0 +1,12 @@
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\bin\Debug\Practica4.exe.config
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\bin\Debug\Practica4.exe
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\bin\Debug\Practica4.pdb
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\obj\Debug\Practica4.exe
+c:\users\mmart\documents\visual studio 2013\Projects\Practica4\Practica4\obj\Debug\Practica4.pdb
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\obj\Debug\Practica4.exe
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\obj\Debug\Practica4.pdb
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\bin\Debug\Practica4.exe
+C:\Users\MMART\Documents\Escuela\ICC 8\Patrones\Practicas\Practica4.1\Practica4\bin\Debug\Practica4.pdb
