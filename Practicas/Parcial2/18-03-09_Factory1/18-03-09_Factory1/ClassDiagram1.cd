@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_18_03_09_Factory1.Bacon">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Bacon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.Decorator">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.Mushrooms">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="_18_03_09_Factory1.Decorator" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="2.247" />
+        <Point X="6.25" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Mushrooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.Pizza">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAECAAAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaChicagoFactory">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaChicagoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaFactory">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaHawaian">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="_18_03_09_Factory1.Pizza" FixedFromPoint="true">
+      <Path>
+        <Point X="10" Y="1.438" />
+        <Point X="14.125" Y="1.438" />
+        <Point X="14.125" Y="2.463" />
+        <Point X="14.5" Y="2.463" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaHawaian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaMexican">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="_18_03_09_Factory1.Pizza" FixedFromPoint="true">
+      <Path>
+        <Point X="10" Y="0.875" />
+        <Point X="16.375" Y="0.875" />
+        <Point X="16.375" Y="2.463" />
+        <Point X="16.75" Y="2.463" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaMexican.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaNYFactory">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaNYFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaPepperoni">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaPepperoni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaSimpleFactory">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaSimpleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.PizzaStore">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.Program" Collapsed="true">
+    <Position X="16.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.Sausage">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Sausage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.StyleChicago">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>StyleChicago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_18_03_09_Factory1.StyleNY">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>StyleNY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
