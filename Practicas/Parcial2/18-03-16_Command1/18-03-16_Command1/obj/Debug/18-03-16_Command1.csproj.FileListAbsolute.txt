@@ -1,0 +1,6 @@
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\bin\Debug\18-03-16_Command1.exe.config
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\bin\Debug\18-03-16_Command1.exe
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\bin\Debug\18-03-16_Command1.pdb
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\obj\Debug\18-03-16_Command1.csprojResolveAssemblyReference.cache
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\obj\Debug\18-03-16_Command1.exe
+c:\users\mmart\documents\visual studio 2013\Projects\18-03-16_Command1\18-03-16_Command1\obj\Debug\18-03-16_Command1.pdb
