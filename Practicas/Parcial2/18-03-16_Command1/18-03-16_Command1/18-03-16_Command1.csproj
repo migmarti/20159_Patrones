@@ -41,12 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\MacroCommand.cs" />
     <Compile Include="Client.cs" />
-    <Compile Include="NoCommand.cs" />
-    <Compile Include="ResetCommand.cs" />
-    <Compile Include="SleepCommand.cs" />
-    <Compile Include="OffCommand.cs" />
-    <Compile Include="OnCommand.cs" />
+    <Compile Include="Commands\CameraCommand.cs" />
+    <Compile Include="Commands\MusicCommand.cs" />
+    <Compile Include="Commands\NoCommand.cs" />
+    <Compile Include="Commands\LightsCommand.cs" />
+    <Compile Include="Commands\ToggleCommand.cs" />
+    <Compile Include="Commands\ResetCommand.cs" />
+    <Compile Include="Commands\SleepCommand.cs" />
+    <Compile Include="Commands\OffCommand.cs" />
+    <Compile Include="Commands\OnCommand.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="Invoker.cs" />
     <Compile Include="Program.cs" />

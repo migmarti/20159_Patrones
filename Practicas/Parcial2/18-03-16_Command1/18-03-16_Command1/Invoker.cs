@@ -32,13 +32,25 @@ namespace _18_03_16_Command1 {
             }
         }
 
-        public void invoke(int index) {
+        public ICommand invoke(int index) {
             if (index < this.commandCount) {
                 commands[index].execute();
             }
             else {
                 Console.WriteLine("Invoke Error: Index out of range.");
+                return null;
+            }
+            return commands[index];
+        }
+
+        public void undo(int index) {
+            if (index < this.commandCount) {
+                commands[index].undo();
+            }
+            else {
+                Console.WriteLine("Undo Error: Index out of range.");
             }
         }
+
     }
 }
